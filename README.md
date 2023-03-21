@@ -28,6 +28,20 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
   </p>
+    
+</details>
+
+
+
+<details> 
+  <summary><h2>📈 Github Stats</h2></summary>
+
+<img align="left" width="47%" src="https://streak-stats.demolab.com?user=Nachoozg&theme=ayu-mirage&border_radius=">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachoozg&layout=compact">
+
+</details>
+
+
 
 
 
