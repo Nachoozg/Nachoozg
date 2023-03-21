@@ -1,8 +1,34 @@
-                                                                   
+<p align="center">
+  <a href="https://github.com/Nachoozg">
+    <img src="https://readme-typing-svg.demolab.com?font=&pause=10000&color=275FF7&center=true&vCenter=true&width=435&lines=Nacho+Zaldo+Gonz%C3%A1lez" /></a>
+  
+</p>
+  <p align="center">
+  <a href="https://github.com/Nachoozg">
+    <img src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="150"/></a>
+  </p>
+  <h3 align="center"> 📚 Learning 📚  ㅤㅤ||ㅤ ㅤ 💻 Coding 💻 </h3>
 
-<div id="header" align="center">
-  <img src="[![giphy](https://user-images.githubusercontent.com/118401834/226740274-4d93dcda-f9a9-4223-9fca-8fa2f8b300ea.gif)](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)" width="200" />
-  <h1 align="center">    Hi 👋, I'm Nacho Zaldo  </h1>
-  <h3 align="center"> </h3>
-</div>
+<h3 align="center">My Socials:</h3>
+<p align="center">
+    <a href="https://instagram.com/nachoozg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="100" /></a>
+  <a href="https://twitter.com/Nacho_0_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="100" /></a>
+
+</p>
+
+<details> 
+  <summary><h2>🛠️ Favourite Tools</h2></summary>
+ 
+
+  <h3>📘 Programming Languages</h3>
+
+  <p>
+     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+  </p>
+
+
+
 
