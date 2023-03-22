@@ -35,9 +35,11 @@
 
 <details> 
   <summary><h2>📈 Github Stats</h2></summary>
+  
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=nachoozg&show_icons=true&theme=ayu-mirage" />
+<img align="left" width="40%" src="https://streak-stats.demolab.com?user=Nachoozg&theme=ayu-mirage&border_radius="/>
+<!--<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachoozg&layout=compact"/>-->
 
-<img align="left" width="47%" src="https://streak-stats.demolab.com?user=Nachoozg&theme=ayu-mirage&border_radius=">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachoozg&layout=compact">
 
 </details>
 
