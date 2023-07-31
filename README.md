@@ -20,7 +20,7 @@
   <summary><h2>🛠️ Favourite Tools</h2></summary>
  
 
-  <h3>📘 Programming Languages</h3>
+  
 
   <p>
      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
