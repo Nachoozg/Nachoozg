@@ -9,13 +9,6 @@
   </p>
   <h3 align="center"> 📚 Learning 📚  ㅤ||ㅤㅤ💻 Coding 💻 </h3>
 
-<h3 align="center">My Socials:</h3>
-<p align="center">
-    <a href="https://instagram.com/nachoozg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="100" /></a>
-  <a href="https://twitter.com/Nacho_0_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="100" /></a>
-
-</p>
-
 <details> 
   <summary><h2>🛠️ Favourite Tools</h2></summary>
  
